@@ -8,7 +8,7 @@ The project consists of mainly 2 stages:
 
 ### Input data
 
-The dataset was initially extracted from Kaggle (link:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset) which consisted of nearly 40,000+ entries of the apparels of different categories.
+The dataset was initially extracted from Kaggle which consisted of nearly 40,000+ entries of the apparels of different categories.
 After data cleaning according to our needs & requirements, our final dataset now consists of approx 21,000 inputs of different types of fashion products, which has 5 different categories like article type, color, season, occasion type, & their respective purchase links.
 
 ## To use the code, import the following libraries
