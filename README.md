@@ -37,9 +37,3 @@ After data cleaning according to our needs & requirements, our final dataset now
 2. Vuforia SDK: Vuforia is an AR development platform integrated with Unity, enabling marker-based AR experiences. It provides tools for recognizing and tracking images, objects, and environments, making it suitable for marker-based AR applications.
 3. Spark AR: Spark AR is a platform provided by Facebook for creating AR effects for Instagram, Facebook, and other platforms. It offers a range of tools and features for developing AR experiences, including interactive effects, animations, and filters.
 4. Lens Studio : Lens Studio provides advanced AR effects and features, including facial recognition and dynamic object placement, along with seamless integration with Snapchat for social media engagement.
-
-## Results 
-This is how our model detects a person and helps in virtual try on:
-
-![Image before](before.jpg)
-![Image after](after.jpg)
